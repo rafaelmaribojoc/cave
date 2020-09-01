@@ -68,21 +68,21 @@ a:hover {
 
 .top-cloud {
   position: absolute;
-  width: 15%;
-  right: 100px;
-  top: 0;
+  width: 10%;
+  right: 200px;
+  top: 15px;
 }
 
 .bottom-cloud {
   position: absolute;
-  width: 15%;
-  left: 50px;
+  width: 10%;
+  left: 100px;
   bottom: 250px;
 }
 
 .my-picture {
   border-radius: 50%;
-  width: 50%;
+  width: 20%;
 }
 
 .intro {
